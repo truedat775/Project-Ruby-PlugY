@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="PlugY">
+</Property><Property Name="Solution File" Value="C:\Users\Alex\Workshop\Projects\Project Ruby PlugY\PlugY\PlugY.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Alex\Workshop\Projects\Project Ruby PlugY\PlugY\PlugY.suo">
+</Property><Property Name="Date" Value="Monday, January 6, 2020">
+</Property><Property Name="Time" Value="20:06 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="PlugY.sln" Description="File successfully backed up as C:\Users\Alex\Workshop\Projects\Project Ruby PlugY\PlugY\PlugY.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="PlugY.suo" Description="File successfully backed up as C:\Users\Alex\Workshop\Projects\Project Ruby PlugY\PlugY\PlugY.suo.old">
+</Event><Event ErrorLevel="0" Project="PlugY" Source="PlugY.vcproj" Description="Converting project file 'C:\Users\Alex\Workshop\Projects\Project Ruby PlugY\PlugY\PlugY.vcproj'.">
+</Event><Event ErrorLevel="1" Project="PlugY" Source="PlugY.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="PlugY" Source="PlugY.vcproj" Description="Done converting to new project file 'C:\Users\Alex\Workshop\Projects\Project Ruby PlugY\PlugY\PlugY.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="PlugY" Source="PlugY.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="PlugY.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="PlugY.sln" Description="Converted">
+</Event></UpgradeLog>
